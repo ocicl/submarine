@@ -1,0 +1,10 @@
+* submarine
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/submarine/submarine.git   |
+| commit  |   |
+| systems | submarine |
+|---------+-------------------------------------------|
+
