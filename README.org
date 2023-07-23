@@ -1,10 +1,10 @@
 * submarine
 
+Submarine is a Common Lisp library that's somewhere between a
+PostgreSQL library an an object persistency system.
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/submarine/submarine.git   |
-| commit  |   |
-| systems | submarine |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/submarine/submarine.git |
+| commit  | eb30cdb                                                    |
+| systems | submarine                                                  |
+|---------+------------------------------------------------------------|
